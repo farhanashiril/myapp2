@@ -3,6 +3,6 @@ from . import views
 
 urlspatterns=[
 
-path('base',views.assignment1,name="base"),
+path('base',views.function,name="base"),
 
 ]
